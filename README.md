@@ -8,6 +8,8 @@ Dollar AI Club
 
 Visit our website at https://dollaraiclub.com/
 
+![Our Courses](https://raw.githubusercontent.com/DollarAIClub/Our-Company/images/Homepage%20-%20Courses.png)
+
 # Blog
 
 Visit our Blog at https://dollaraiclub.com/blog
